@@ -18,9 +18,9 @@
 * `sudo apt install python2 -y`
 * `sudo apt install git -y`
 * `sudo apt install lolcat`
-* `git clone https://github.com/MnM63/saycheese.git`
-* `cd saycheese`
-* `bash saycheese.sh`
+* `git clone https://github.com/noob-hackers/grabcam`
+* `cd grabcam`
+* `bash grabcam.sh`
 ```
 
 ## INSTALLATION [Termux] :
@@ -31,9 +31,9 @@
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/MnM63/saycheese.git`
-* `cd saycheese`
-* `bash saycheese.sh`
+* `git clone https://github.com/noob-hackers/grabcam`
+* `cd grabcam`
+* `bash grabcam.sh`
 ```
 to see captured images >>>
 ```
